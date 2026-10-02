@@ -74,6 +74,6 @@ Data analysis project exploring electricity consumption data from Kerala.
 
 ## Connect
 
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/archasunilai/)
 
 Feel free to explore my repositories and projects.
