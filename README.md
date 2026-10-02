@@ -1,116 +1,79 @@
-# Hi, I'm Archa 👋
+# Hi, I'm Archa Sunil 👋
 
-### AI & Machine Learning Graduate
+### AI/ML | Data Science | Generative AI
 
-I'm an AI & Machine Learning graduate interested in building practical applications using **Python, Machine Learning, Computer Vision, Data Analysis, and AI technologies**.
+I'm an AI & Machine Learning graduate interested in building practical applications with **Python, Machine Learning, Data Science, Computer Vision, and Generative AI**.
 
-I enjoy working on real-world projects that combine data, intelligent systems, and user-focused applications.
+I enjoy working on projects that combine data, intelligent systems, and user-focused applications.
 
----
+## Technical Skills
 
-## 🛠️ Technical Skills
+**Programming & Data**  
+Python · SQL · Pandas · NumPy · Data Analysis · EDA · Data Visualization
 
-**Programming & Data**
-- Python
-- SQL
-- Pandas
-- NumPy
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+**AI & Machine Learning**  
+Scikit-learn · Regression · Classification · Data Preprocessing · Model Training & Evaluation
 
-**AI & Machine Learning**
-- Scikit-learn
-- Regression
-- Classification
-- Model Training & Evaluation
-- Data Preprocessing
-- Foundational knowledge of TensorFlow & PyTorch
+**Computer Vision**  
+OpenCV · MediaPipe
 
-**Computer Vision**
-- OpenCV
-- MediaPipe
+**Generative AI & Applications**  
+Ollama · Local LLMs · Streamlit
 
-**Applications & Tools**
-- Streamlit
-- SQLite
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
-- VS Code
-- Ollama & Local LLMs
+**Tools & Platforms**  
+SQLite · Git · GitHub · Jupyter Notebook · Google Colab · VS Code
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+### AcademicDoc-AI
 
-### 🔹 Real-Time Multimodal Emotion & Deception Detection System
+AI-powered academic document verification and knowledge assistant using **OCR, document comparison, analytics, RAG, and local LLM-based question answering**.
 
-A real-time multimodal AI system that analyzes behavioral and physiological signals to study patterns associated with deceptive behavior.
+**Technologies:** Python · OCR · RAG · Streamlit · Machine Learning · Local LLMs
 
-**Technologies:** Python, OpenCV, MediaPipe, Machine Learning, Arduino, C++, SQLite, Tkinter
+### FinSight-AI
 
----
+Privacy-focused personal finance assistant that analyzes transaction data and provides financial insights using a **local Qwen3 model through Ollama**.
 
-### 🔹 FinSight-AI
+**Technologies:** Python · Pandas · Streamlit · SQLite · Ollama · Local LLMs
 
-A privacy-focused personal finance analysis platform that analyzes transaction data and provides financial insights using local AI.
+### Multilingual Disaster Reporting
 
-**Technologies:** Python, Pandas, Streamlit, SQLite, Ollama, Local LLMs
+Multilingual disaster reporting platform designed for **emergency communication, incident reporting, and incident management**.
 
----
+**Technologies:** TypeScript · React · Node.js · Express · MongoDB
 
-### 🔹 Multilingual Disaster Reporting
+### Multimodal Emotion & Deception Detection
 
-A multilingual emergency communication and disaster reporting platform designed for incident reporting and management.
+Computer-vision-based project exploring behavioral and physiological signals associated with deceptive behavior.
 
-**Technologies:** TypeScript, React, Node.js, Express, MongoDB
+**Technologies:** Python · OpenCV · MediaPipe · Arduino · Machine Learning · Tkinter
 
----
+### Kerala Electricity Analysis
 
-### 🔹 First-Aid Guidance Chatbot
+Data analysis project exploring electricity consumption data from Kerala.
 
-A rule-based chatbot that provides first-aid guidance using a structured CSV dataset.
+**Technologies:** Python · Pandas · Matplotlib · Jupyter Notebook
 
-**Technologies:** Python, Pandas, CSV
-
----
-
-### 🔹 Kerala Electricity Analysis
-
-A data analysis project exploring electricity consumption data from Kerala.
-
-**Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook
-
----
-
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Python
 - SQL
-- NumPy & Pandas
 - Data Analysis
 - Machine Learning
+- Generative AI
 - Quantitative Problem Solving
 
----
+## Career Interests
 
-## 🎯 Career Interests
-
-I'm interested in entry-level opportunities in:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
+- Artificial Intelligence & Machine Learning
+- Data Science & Data Analysis
 - Computer Vision
+- Generative AI
 - AI Applications
 
----
+## Connect
 
-## 📫 Connect With Me
+[LinkedIn](YOUR-LINKEDIN-URL)
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/archa-684851312/)
-
----
-
-⭐ Feel free to explore my repositories and projects.
+Feel free to explore my repositories and projects.
