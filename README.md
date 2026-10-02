@@ -1,6 +1,6 @@
 # Hi, I'm Archa Sunil 👋
 
-### AI/ML | Data Science | Generative AI
+
 
 I'm an AI & Machine Learning graduate interested in building practical applications with **Python, Machine Learning, Data Science, Computer Vision, and Generative AI**.
 
