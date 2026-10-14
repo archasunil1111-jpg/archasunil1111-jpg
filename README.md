@@ -1,17 +1,17 @@
 # Hi, I'm Archa Sunil 👋
 
-🎓 **AI/ML Graduate | Machine Learning | Generative AI | Data Science**
+ **AI/ML Graduate | Machine Learning | Generative AI | Data Science**
 
 I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning, interested in building practical AI applications, developing machine learning solutions, and transforming data into useful insights.
 
 I enjoy working with Python, data analysis, machine learning, document processing, and local LLMs to build user-focused applications.
 
-- 🔭 Building practical AI and data-driven projects
-- 🌱 Learning Python, SQL, Machine Learning, Generative AI, and AI application development
-- 💡 Interested in AI/ML, Data Science, Generative AI, and AI Automation
-- 🤝 Open to entry-level opportunities, internships, and suitable collaborative projects
+-  Building practical AI and data-driven projects
+-  Learning Python, SQL, Machine Learning, Generative AI, and AI application development
+-  Interested in AI/ML, Data Science, Generative AI, and AI Automation
+-  Open to entry-level opportunities, internships, and suitable collaborative projects
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming & Data Analysis**
 - Python, SQL
@@ -53,7 +53,7 @@ I enjoy working with Python, data analysis, machine learning, document processin
 - MediaPipe
 - Computer Vision
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. AcademicDoc-AI
 
@@ -114,7 +114,7 @@ An exploratory project investigating computer vision and physiological signals f
 🔗 [View Repository](https://github.com/archasunil1111-jpg/Real-Time-Multimodal-Emotion-Deception-Detection-System)
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Python problem-solving and programming fundamentals
 - SQL and data analysis
@@ -123,7 +123,7 @@ An exploratory project investigating computer vision and physiological signals f
 - AI agents and tool use
 - Quantitative problem-solving
 
-## 🎯 Career Interests
+##  Career Interests
 
 - Artificial Intelligence and Machine Learning
 - Data Science and Data Analysis
@@ -131,7 +131,7 @@ An exploratory project investigating computer vision and physiological signals f
 - AI Automation
 - Applied AI Development
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/archasunilai](https://linkedin.com/in/archasunilai)
 - **GitHub:** [github.com/archasunil1111-jpg](https://github.com/archasunil1111-jpg)
