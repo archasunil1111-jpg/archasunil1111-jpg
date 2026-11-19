@@ -1,44 +1,52 @@
+
+
 # Hi, I'm Archa Sunil 👋
 
- **AI/ML Graduate | Machine Learning | Generative AI | Data Science**
+**AI/ML Graduate | Python | Generative AI | LLM Applications | RAG | AI Automation**
 
-I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning, interested in building practical AI applications, developing machine learning solutions, and transforming data into useful insights.
+I'm a B.Tech graduate in Artificial Intelligence and Machine Learning, interested in building practical AI applications, developing machine learning solutions, and transforming data into useful insights.
 
-I enjoy working with Python, data analysis, machine learning, document processing, and local LLMs to build user-focused applications.
+I enjoy working with Python, data analysis, machine learning, document processing, and large language models to develop user-focused applications and AI-powered solutions.
 
--  Building practical AI and data-driven projects
--  Learning Python, SQL, Machine Learning, Generative AI, and AI application development
--  Interested in AI/ML, Data Science, Generative AI, and AI Automation
--  Open to entry-level opportunities, internships, and suitable collaborative projects
+- Building practical AI and data-driven applications.
+- Exploring Generative AI, LLMs, RAG, and AI-powered workflows.
+- Developing Python-based applications and machine learning solutions.
+- Experimenting with local LLMs and semantic search technologies.
+- Continuously learning emerging AI technologies and tools.
+- Open to entry-level opportunities, AI internships, and collaborative projects.
 
-##  Technical Skills
+## Technical Skills
 
 **Programming & Data Analysis**
 - Python, SQL
 - Pandas, NumPy
 - Exploratory Data Analysis (EDA)
 - Data Cleaning, Preprocessing, and Visualization
-- Matplotlib
+- Matplotlib, Plotly
 
 **Machine Learning**
 - Scikit-learn, CatBoost
 - Regression and Model Evaluation
-- MAE and RMSE
+- Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE)
 - Anomaly Detection
 - TF-IDF and Cosine Similarity
 
 **Generative AI & LLM Applications**
 - Large Language Models (LLMs)
-- Ollama and Qwen3:4B
+- Ollama and Local LLM Integration
+- Qwen3:4B and Qwen 2.5 3B
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- REST API Integration
+- Embeddings and Semantic Search
+- ChromaDB and FAISS
+- Sentence Transformers
 
 **Document Processing**
-- OCR with Tesseract
 - PyMuPDF
+- Tesseract OCR
 - Regular Expressions
 - PDF Text Extraction and Validation
+- Document Comparison and Information Retrieval
 
 **Application Development & Tools**
 - Streamlit
@@ -52,84 +60,109 @@ I enjoy working with Python, data analysis, machine learning, document processin
 - OpenCV
 - MediaPipe
 - Computer Vision
+- Arduino
+- Tkinter
 
 ## Featured Projects
 
-### 1. AcademicDoc-AI
+### 1. OpsPilot AI – AI-Powered IT Incident Diagnosis and Troubleshooting Assistant
 
-An AI-powered academic document processing application designed to extract, validate, compare, and retrieve information from academic PDFs.
+An AI-powered IT incident investigation application designed to help IT teams organize incident information, retrieve relevant troubleshooting knowledge, explore possible technical causes, and generate structured investigation recommendations.
 
 **Key Features**
-- Extracts text from PDFs using PyMuPDF, with OCR fallback for scanned pages.
-- Identifies and validates academic fields such as student name, institution, course, graduation year, and CGPA.
-- Compares academic documents and supports similarity-based retrieval for document question answering.
+- Accepts IT incident details through a Streamlit application.
+- Performs initial incident classification using Python.
+- Implements Retrieval-Augmented Generation (RAG) to retrieve relevant troubleshooting knowledge.
+- Generates text embeddings using `nomic-embed-text`.
+- Uses ChromaDB for storing and retrieving relevant troubleshooting information.
+- Integrates Ollama with Qwen 2.5 3B to generate possible technical causes and investigation recommendations based on retrieved context.
+- Presents structured investigation reports for human review.
+- Maintains local incident analysis history.
 
-**Technologies:** Python, Streamlit, PyMuPDF, Tesseract OCR, Scikit-learn, ReportLab
+**Technologies:** Python, Streamlit, Ollama, Qwen 2.5 3B, RAG, ChromaDB, nomic-embed-text, PyMuPDF, Pandas, Plotly, Git, GitHub.
+
+**Project Scope:** A decision-support prototype. It does not monitor live infrastructure, independently confirm root causes, or automatically resolve incidents.
+
+🔗 [View Repository](https://github.com/archasunil1111-jpg/OpsPilot-AI)
+
+### 2. AcademicDoc-AI – Academic Document Information Extraction and Validation System
+
+An academic document processing application designed to extract, validate, compare, and retrieve information from academic PDF documents.
+
+**Key Features**
+- Extracts text from PDF documents using PyMuPDF, with Tesseract OCR fallback for scanned documents.
+- Identifies and validates five academic fields, including student name, institution, course, graduation year, and CGPA.
+- Performs document comparison using consistency checks.
+- Generates TXT and PDF reports.
+- Implements document question answering using field lookup and TF-IDF/cosine-similarity retrieval.
+- Includes a separate semantic vector-search module using Sentence Transformers and FAISS.
+
+**Technologies:** Python, Streamlit, PyMuPDF, Tesseract OCR, Scikit-learn, Sentence Transformers, FAISS, ReportLab.
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/AcademicDoc-AI)
 
-### 2. FinSight-AI
+### 3. FinSight-AI – Intelligent Financial Transaction Analysis and Anomaly Detection System
 
-A privacy-focused personal finance assistant that processes transaction data and provides financial insights using a locally hosted language model.
+A privacy-focused personal finance assistant that analyzes financial transactions, generates spending insights, and supports financial decision-making using a locally hosted language model.
 
 **Key Features**
-- Processes financial transactions, generates spending summaries, and detects duplicate transactions.
-- Implements IQR- and Z-score-based anomaly detection for identifying unusual transactions.
-- Integrates a local Qwen3:4B model through Ollama for transaction classification and financial question answering.
+- Processes financial transactions and generates spending summaries.
+- Provides budget management, savings goals, and recurring bill tracking.
+- Detects duplicate transactions.
+- Implements IQR- and Z-score-based anomaly detection to identify unusual transactions.
+- Integrates Ollama with Qwen3:4B for locally generated financial explanations and question answering using application-prepared financial data.
 
-**Technologies:** Python, Streamlit, Pandas, NumPy, SQLite, Ollama, Qwen3:4B
+**Technologies:** Python, Streamlit, Pandas, NumPy, Scikit-learn, SQLite, Ollama, Qwen3:4B.
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/FinSight-AI)
-
-### 3. ProofLoop AI
-
-An evidence-grounded AI verification and decision-support project focused on evaluating claims using supporting evidence.
-
-**Project Status:** In development. See the repository for the currently implemented features.
-
-🔗 [View Repository](https://github.com/archasunil1111-jpg/proofloop-ai)
 
 ### 4. Multilingual Disaster Reporting
 
 A multilingual disaster reporting platform designed to support emergency communication, incident reporting, and incident management.
 
-**Technologies:** TypeScript, React, Node.js, Express, MongoDB
+**Technologies:** TypeScript, React, Node.js, Express, MongoDB.
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/multilingual-disaster-reporting)
 
-### 5. Kerala Electricity Analysis
+### 5. Real-Time Multimodal Emotion & Deception Detection System
 
-A data analysis project exploring electricity consumption data from Kerala using Python-based data analysis and visualization.
+An exploratory multimodal project investigating facial behavioral signals and physiological measurements through computer vision and hardware integration.
 
-**Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook
+**Key Features**
+- Uses OpenCV and MediaPipe for facial landmark tracking.
+- Analyzes blink patterns, gaze, and head pose.
+- Integrates Arduino heart-rate readings with behavioral signals using baseline calibration.
+- Displays signals and rule-based consistency checks through a Tkinter dashboard.
 
-🔗 [View Repository](https://github.com/archasunil1111-jpg/kerala-electricity-analysis)
-
-### 6. Multimodal Emotion & Deception Detection
-
-An exploratory project investigating computer vision and physiological signals for multimodal emotion and deception-related analysis.
-
-**Technologies:** Python, OpenCV, MediaPipe, Arduino, Machine Learning, Tkinter
+**Technologies:** Python, OpenCV, MediaPipe, NumPy, Arduino, SQLite, Tkinter.
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/Real-Time-Multimodal-Emotion-Deception-Detection-System)
 
+### 6. Kerala Electricity Analysis
 
-##  Currently Learning
+A data analysis project exploring electricity consumption data from Kerala using Python-based data processing, exploratory analysis, and visualization.
 
-- Python problem-solving and programming fundamentals
-- SQL and data analysis
-- Machine learning algorithms and model evaluation
-- Generative AI and LLM application development
-- AI agents and tool use
-- Quantitative problem-solving
+**Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook.
 
-##  Career Interests
+🔗 [View Repository](https://github.com/archasunil1111-jpg/kerala-electricity-analysis)
 
-- Artificial Intelligence and Machine Learning
-- Data Science and Data Analysis
-- Generative AI and LLM Applications
-- AI Automation
-- Applied AI Development
+## Currently Exploring
+
+- Machine learning algorithms and model evaluation.
+- Generative AI and LLM application development.
+- Retrieval-Augmented Generation and semantic search.
+- AI agents and tool-use workflows.
+- Python application development.
+- Data analysis and quantitative problem-solving.
+
+## Career Interests
+
+- Artificial Intelligence and Machine Learning.
+- Generative AI and LLM Applications.
+- AI Solutions Development.
+- AI Automation and Intelligent Workflows.
+- Data Science and Data Analysis.
+- Applied AI Development.
 
 ## Connect With Me
 
@@ -139,4 +172,5 @@ An exploratory project investigating computer vision and physiological signals f
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
+
