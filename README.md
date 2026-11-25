@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Archa Sunil 👋
 
 **AI/ML Graduate | Python | Generative AI | LLM Applications | RAG | AI Automation**
@@ -15,23 +13,28 @@ I enjoy working with Python, data analysis, machine learning, document processin
 - Continuously learning emerging AI technologies and tools.
 - Open to entry-level opportunities, AI internships, and collaborative projects.
 
-## Technical Skills
+---
 
-**Programming & Data Analysis**
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
 - Python, SQL
 - Pandas, NumPy
 - Exploratory Data Analysis (EDA)
 - Data Cleaning, Preprocessing, and Visualization
 - Matplotlib, Plotly
 
-**Machine Learning**
+### Machine Learning
 - Scikit-learn, CatBoost
 - Regression and Model Evaluation
-- Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R²
+- Gradient Boosting and Ensemble Learning
+- Hyperparameter Tuning
 - Anomaly Detection
+- SHAP Explainability
 - TF-IDF and Cosine Similarity
 
-**Generative AI & LLM Applications**
+### Generative AI & LLM Applications
 - Large Language Models (LLMs)
 - Ollama and Local LLM Integration
 - Qwen3:4B and Qwen 2.5 3B
@@ -41,29 +44,32 @@ I enjoy working with Python, data analysis, machine learning, document processin
 - ChromaDB and FAISS
 - Sentence Transformers
 
-**Document Processing**
+### Document Processing
 - PyMuPDF
 - Tesseract OCR
 - Regular Expressions
 - PDF Text Extraction and Validation
 - Document Comparison and Information Retrieval
 
-**Application Development & Tools**
+### Application Development & Tools
 - Streamlit
 - SQLite
 - Jupyter Notebook
 - Git and GitHub
 - Google Colab
 - VS Code
+- AWS EC2
 
-**Additional Exposure**
+### Additional Exposure
 - OpenCV
 - MediaPipe
 - Computer Vision
 - Arduino
 - Tkinter
 
-## Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 1. OpsPilot AI – AI-Powered IT Incident Diagnosis and Troubleshooting Assistant
 
@@ -85,7 +91,29 @@ An AI-powered IT incident investigation application designed to help IT teams or
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/OpsPilot-AI)
 
-### 2. AcademicDoc-AI – Academic Document Information Extraction and Validation System
+---
+
+### 2. Solar Power Generation Prediction and Performance Analysis
+
+A machine learning project focused on predicting solar power generation using environmental and solar-related features, comparing regression models, and analyzing model performance.
+
+**Key Features**
+- Performs exploratory data analysis to understand solar and environmental data.
+- Implements data preprocessing and feature analysis.
+- Compares multiple regression algorithms to identify suitable prediction models.
+- Applies Gradient Boosting with hyperparameter tuning for model optimization.
+- Evaluates model performance using MAE, RMSE, and R².
+- Uses SHAP to interpret feature contributions and improve model explainability.
+- Develops an interactive Streamlit dashboard for solar power prediction and performance analysis.
+- Deploys the Streamlit application on AWS EC2.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Gradient Boosting, SHAP, Streamlit, AWS EC2.
+
+🔗 [View Repository](https://github.com/archasunil1111-jpg/Solar_Power_Generation_Prediction)
+
+---
+
+### 3. AcademicDoc-AI – Academic Document Information Extraction and Validation System
 
 An academic document processing application designed to extract, validate, compare, and retrieve information from academic PDF documents.
 
@@ -101,7 +129,9 @@ An academic document processing application designed to extract, validate, compa
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/AcademicDoc-AI)
 
-### 3. FinSight-AI – Intelligent Financial Transaction Analysis and Anomaly Detection System
+---
+
+### 4. FinSight-AI – Intelligent Financial Transaction Analysis and Anomaly Detection System
 
 A privacy-focused personal finance assistant that analyzes financial transactions, generates spending insights, and supports financial decision-making using a locally hosted language model.
 
@@ -116,7 +146,9 @@ A privacy-focused personal finance assistant that analyzes financial transaction
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/FinSight-AI)
 
-### 4. Multilingual Disaster Reporting
+---
+
+### 5. Multilingual Disaster Reporting
 
 A multilingual disaster reporting platform designed to support emergency communication, incident reporting, and incident management.
 
@@ -124,7 +156,9 @@ A multilingual disaster reporting platform designed to support emergency communi
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/multilingual-disaster-reporting)
 
-### 5. Real-Time Multimodal Emotion & Deception Detection System
+---
+
+### 6. Real-Time Multimodal Emotion & Deception Detection System
 
 An exploratory multimodal project investigating facial behavioral signals and physiological measurements through computer vision and hardware integration.
 
@@ -138,7 +172,9 @@ An exploratory multimodal project investigating facial behavioral signals and ph
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/Real-Time-Multimodal-Emotion-Deception-Detection-System)
 
-### 6. Kerala Electricity Analysis
+---
+
+### 7. Kerala Electricity Analysis
 
 A data analysis project exploring electricity consumption data from Kerala using Python-based data processing, exploratory analysis, and visualization.
 
@@ -146,7 +182,18 @@ A data analysis project exploring electricity consumption data from Kerala using
 
 🔗 [View Repository](https://github.com/archasunil1111-jpg/kerala-electricity-analysis)
 
-## Currently Exploring
+---
+
+## 📜 Certifications
+
+- **Oracle University:** Agentic AI Certified Foundations Associate (2026)
+- **NPTEL:** Fundamentals of Artificial Intelligence – Elite
+- **Udacity:** Introducing Generative AI with AWS
+- **Cognizant:** AI Job Simulation
+
+---
+
+## 🌱 Currently Exploring
 
 - Machine learning algorithms and model evaluation.
 - Generative AI and LLM application development.
@@ -155,22 +202,25 @@ A data analysis project exploring electricity consumption data from Kerala using
 - Python application development.
 - Data analysis and quantitative problem-solving.
 
-## Career Interests
+---
 
-- Artificial Intelligence and Machine Learning.
-- Generative AI and LLM Applications.
-- AI Solutions Development.
-- AI Automation and Intelligent Workflows.
-- Data Science and Data Analysis.
-- Applied AI Development.
+## 🎯 Career Interests
 
-## Connect With Me
+- Artificial Intelligence and Machine Learning
+- Generative AI and LLM Applications
+- AI Solutions Development
+- AI Automation and Intelligent Workflows
+- Data Science and Data Analysis
+- Applied AI Development
 
-- **LinkedIn:** [linkedin.com/in/archasunilai](https://linkedin.com/in/archasunilai)
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/archasunilai](https://www.linkedin.com/in/archasunilai/)
 - **GitHub:** [github.com/archasunil1111-jpg](https://github.com/archasunil1111-jpg)
-- **Email:** archasunil.ai@gmail.com
+- **Email:** [archasunil.ai@gmail.com](mailto:archasunil.ai@gmail.com)
 
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
-
