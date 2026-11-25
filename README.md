@@ -93,7 +93,7 @@ An AI-powered IT incident investigation application designed to help IT teams or
 
 ---
 
-### 2. Solar Power Generation Prediction and Performance Analysis
+### 2. SolarGen AI – Solar Power Generation Prediction & Performance Analysis
 
 A machine learning project focused on predicting solar power generation using environmental and solar-related features, comparing regression models, and analyzing model performance.
 
