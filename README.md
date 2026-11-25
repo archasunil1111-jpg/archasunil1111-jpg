@@ -131,7 +131,7 @@ An academic document processing application designed to extract, validate, compa
 
 ---
 
-### 4. FinSight-AI – Intelligent Financial Transaction Analysis and Anomaly Detection System
+### 4. FinSight-AI – Personal Finance Intelligence Assistant
 
 A privacy-focused personal finance assistant that analyzes financial transactions, generates spending insights, and supports financial decision-making using a locally hosted language model.
 
